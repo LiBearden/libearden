@@ -4,7 +4,7 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 
 * Lover of all things food :meat_on_bone:
 * Passionate automator of things :robot:
-* Avid language learner (currently studying **日本語**) :jp:
+* Avid language learner (currently studying **日本語**) :mount_fuji:
 * Casual musician (double bass, viola, violin, cello) :notes:
 
 ## What am I working with? :male_detective:
