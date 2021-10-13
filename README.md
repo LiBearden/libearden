@@ -1,15 +1,13 @@
-# Hey there, my name is Li! :wave: 
-
+[![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
 ## Who am I? :eyes:
-I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily focusing on assisting our Enterprise customers with implementation and scaling their [on-premise container deployments](https://developers.deepgram.com/guides/onprem)!
+I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily focusing on assisting our customers with on-premise deployments!
 
 * Lover of all things food :meat_on_bone:
 * Passionate automator of things :robot:
 * Avid language learner (currently studying **日本語**) :jp:
 * Casual musician (double bass, viola, violin, cello) :notes:
 
-## What do I work with? :male_detective:
-
+## What am I working with? :male_detective:
 
 [![Python](./resources/python-icon.svg)](https://www.python.org/)
 &nbsp;
@@ -37,3 +35,11 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 [![Docker](./resources/docker-icon.svg)](https://docs.docker.com)
 &nbsp;
 [![Tensorflow](./resources/tensorflow-icon.svg)](https://www.tensorflow.org/api_docs)
+
+## Ongoing Projects :heart_eyes::fist:
+<img align="right" alt="GIF" src="./resources/aspire-japan.gif" width="350" height="263" />
+
+My passion for Japanese language learning has developed into the project at [_AspireJapan](https://y.at/🍥🍜🔧💻👻) -- stay tuned for more!
+
+
+**For contributions to other organizations, check out my full portfolio, [here](https://libearden.github.io).*
