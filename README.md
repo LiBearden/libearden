@@ -10,15 +10,16 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 
 ## What do I work with? :male_detective:
 
-[![Python](./resources/python_icon.svg)](https://www.python.org/)
+
+[![Python](./resources/python-icon.svg)](https://www.python.org/)
 &nbsp;
-[![Rust](./resources/rust_lang_icon.svg)](https://www.rust-lang.org/learn)
+[![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
 &nbsp;
-[![Docker](./resources/docker_icon.svg)](https://www.docker.com)
+[![Docker](./resources/docker-icon.svg)](https://www.docker.com)
 &nbsp;
 [![Kubernetes](./resources/kubernetes-icon.svg )](https://kubernetes.io)
 &nbsp;
-[![AWS](./resources/amazon_aws.png)](https://aws.amazon.com)
+[![AWS](./resources/amazon_aws-icon.svg)](https://aws.amazon.com)
 &nbsp;
 [![GCP](./resources/google_cloud-icon.svg)](https://cloud.google.com)
 &nbsp;
@@ -31,8 +32,8 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 
 [![O'Reilly](./resources/oreilly-ar21.svg)](https://www.oreilly.com)
 &nbsp;
-[![Rust](./resources/rust_lang_icon.svg)](https://doc.rust-lang.org/beta/)
+[![Rust](./resources/rust-lang-icon.svg)](https://doc.rust-lang.org/beta/)
 &nbsp;
-[![Docker](./resources/docker_icon.svg)](https://docs.docker.com)
+[![Docker](./resources/docker-icon.svg)](https://docs.docker.com)
 &nbsp;
 [![Tensorflow](./resources/tensorflow-icon.svg)](https://www.tensorflow.org/api_docs)
