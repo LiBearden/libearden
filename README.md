@@ -8,7 +8,7 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 * Avid language learner (currently studying **日本語**) :jp:
 * Casual musician (double bass, viola, violin, cello) :notes:
 
-## What do I work with? :male_detective:
+## What am I working with? :male_detective:
 
 [![Python](./resources/python_icon.svg)](https://www.python.org/)
 &nbsp;
