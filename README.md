@@ -10,6 +10,7 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 
 ## What do I work with? :male_detective:
 
+
 [![Python](./resources/python-icon.svg)](https://www.python.org/)
 &nbsp;
 [![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
