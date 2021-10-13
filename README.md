@@ -1,4 +1,4 @@
-# Hey there, my name is Li! :wave: 
+# Hey there, my name is Li! :wave::skin-tone-4: 
 
 ## Who am I? :eyes:
 I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily focusing on assisting our Enterprise customers with implementation and scaling their [on-premise container deployments](https://developers.deepgram.com/guides/onprem)!
@@ -8,7 +8,7 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 * Avid language learner (currently studying **日本語**) :jp:
 * Casual musician (double bass, viola, violin, cello) :notes:
 
-## What am I working with? :male_detective:
+## What am I working with? :male_detective::skin-tone-4:
 
 [![Python](./resources/python_icon.svg)](https://www.python.org/)
 &nbsp;
@@ -36,3 +36,9 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 [![Docker](./resources/docker_icon.svg)](https://docs.docker.com)
 &nbsp;
 [![Tensorflow](./resources/tensorflow-icon.svg)](https://www.tensorflow.org/api_docs)
+
+## Ongoing Projects
+
+**Want to know more about the projects and organizations I contribute to?** :heart_eyes: :fist::skin-tone-4: 
+<br>
+Check out my language learning journey at [_AspireJapan](https://y.at/🍥🍜🔧💻👻) and contributions portfolio, [here](https://libearden.github.io)!
