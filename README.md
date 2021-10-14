@@ -1,5 +1,6 @@
 [![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
-## Who am I? :eyes:
+
+## Who I am :eyes:
 I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily focusing on assisting our customers with on-premise deployments!
 
 * Lover of all things food :meat_on_bone:
@@ -7,7 +8,7 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 * Avid language learner (currently studying **日本語**) :mount_fuji:
 * Casual musician (double bass, viola, violin, cello) :notes:
 
-## What am I working with? :male_detective:
+## What I use :male_detective:
 
 [![Python](./resources/python-icon.svg)](https://www.python.org/)
 &nbsp;
@@ -25,8 +26,13 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 &nbsp;
 [![Tensorflow](./resources/tensorflow-icon.svg)](https://www.tensorflow.org)
 
+## What I'm learning :open_book:
+[![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
+&nbsp;
+[![Kubernetes](./resources/kubernetes-icon.svg )](https://kubernetes.io)
+&nbsp;
 
-## Where do I learn stuff? :books:
+### Where do I learn stuff? :books:
 
 [![O'Reilly](./resources/oreilly-ar21.svg)](https://www.oreilly.com)
 &nbsp;
@@ -34,7 +40,6 @@ I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily f
 &nbsp;
 [![Docker](./resources/docker-icon.svg)](https://docs.docker.com)
 &nbsp;
-[![Tensorflow](./resources/tensorflow-icon.svg)](https://www.tensorflow.org/api_docs)
 
 ## Ongoing Projects :heart_eyes::fist:
 <img align="right" alt="GIF" src="./resources/aspire-japan.gif" width="350" height="263" />
