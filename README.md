@@ -1,7 +1,7 @@
 [![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
 
 ## Who I am :eyes:
-I am a Technical Support Engineer [@deepgram](https://deepgram.com), primarily focusing on assisting our customers with on-premise deployments!
+I am an aspiring Technical Product Manager and Technical Support Engineer [@deepgram](https://deepgram.com)!
 
 * Lover of all things food :meat_on_bone:
 * Passionate automator of things :robot:
