@@ -1,7 +1,7 @@
 [![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
 
 ## Who I am :eyes:
-I am an aspiring Technical Product Manager and Technical Support Engineer [@deepgram](https://deepgram.com)!
+I am an aspiring MLOps Engineer and Team Lead of AI + Developer Support Engineering at Deepgram! [@deepgram](https://deepgram.com)!
 
 * Lover of all things food :meat_on_bone:
 * Passionate automator of things :robot:
