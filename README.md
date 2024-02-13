@@ -1,15 +1,15 @@
 [![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
 
 ## Who I am :eyes:
-I am an aspiring MLOps Engineer and Team Lead of AI + Developer Support Engineering at Deepgram! [@deepgram](https://deepgram.com)!
+I am an Applied AI Engineer at Deepgram! [@deepgram](https://deepgram.com)!
 
-* Lover of all things food :meat_on_bone:
 * Passionate automator of things :robot:
+* Dedicated conservationist and outdoor guide 🌲
 * Avid language learner (currently studying **日本語**) :mount_fuji:
+* Lover of all things food :meat_on_bone:
 * Casual musician (double bass, viola, violin, cello) :notes:
 
 ## What I use :male_detective:
-
 [![Python](./resources/python-icon.svg)](https://www.python.org/)
 &nbsp;
 [![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
@@ -23,8 +23,6 @@ I am an aspiring MLOps Engineer and Team Lead of AI + Developer Support Engineer
 [![GCP](./resources/google_cloud-icon.svg)](https://cloud.google.com)
 &nbsp;
 [![Azure](./resources/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-us/)
-&nbsp;
-[![Tensorflow](./resources/tensorflow-icon.svg)](https://www.tensorflow.org)
 
 ## What I'm learning :open_book:
 [![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
@@ -41,10 +39,5 @@ I am an aspiring MLOps Engineer and Team Lead of AI + Developer Support Engineer
 [![Docker](./resources/docker-icon.svg)](https://docs.docker.com)
 &nbsp;
 
-## Ongoing Projects :heart_eyes::fist:
-<img align="right" alt="GIF" src="./resources/aspire-japan.gif" width="350" height="263" />
-
-My passion for Japanese language learning has developed into the project at [_AspireJapan](https://y.at/🍥🍜🔧💻👻) -- stay tuned for more!
-
-
-**For contributions to other organizations, check out my full portfolio, [here](https://libearden.github.io).*
+## Portfolio
+For contributions to other organizations and projects, check out my full portfolio, [here](https://libearden.github.io).
