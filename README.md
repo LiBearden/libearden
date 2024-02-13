@@ -1,7 +1,7 @@
 [![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
 
 ## Who I am :eyes:
-I am an Applied AI Engineer at [@Deepgram](https://deepgram.com), and:
+I am an Applied AI Engineer [@Deepgram](https://deepgram.com), and:
 
 * Passionate automator of things :robot:
 * Dedicated conservationist and outdoor guide 🌲
