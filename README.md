@@ -1,43 +1,20 @@
-[![Header](/resources/libearden-header.png)](https://y.at/🍥🍜🔧💻👻)
+[![Header](/resources/libearden-header.png)](https://libearden.github.io/)
 
-## Who I am :eyes:
-I am an Applied AI Engineer [@Deepgram](https://deepgram.com), and:
+## Who I am 👀
+👋 Hi, I'm Li Bearden, an engineer passionate about applying AI to conservation efforts. I'm dedicated to using technology to connect underserved communities with the outdoors and create a more inclusive and sustainable world.
 
-* Passionate automator of things :robot:
-* Dedicated conservationist and outdoor guide 🌲
-* Avid language learner (currently studying **日本語**) :mount_fuji:
-* Lover of all things food :meat_on_bone:
-* Casual musician (double bass, viola, violin, cello) :notes:
+## What I Do ⛰️
+🔭 I'm currently working on innovative projects at Deepgram, focusing on automating audio dataset processing and developing AI solutions that enhance accessibility to nature.
 
-## What I use :male_detective:
-[![Python](./resources/python-icon.svg)](https://www.python.org/)
-&nbsp;
-[![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
-&nbsp;
-[![Docker](./resources/docker-icon.svg)](https://www.docker.com)
-&nbsp;
-[![Kubernetes](./resources/kubernetes-icon.svg )](https://kubernetes.io)
-&nbsp;
-[![AWS](./resources/amazon_aws-icon.svg)](https://aws.amazon.com)
-&nbsp;
-[![GCP](./resources/google_cloud-icon.svg)](https://cloud.google.com)
-&nbsp;
-[![Azure](./resources/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-us/)
+## My stack ⚙️
+- **Languages:** Python, SQL, Rust
+- **Tools & Technoloies:** Docker, Kubernetes, AWS, GCP, Azure
 
-## What I'm learning :open_book:
-[![Rust](./resources/rust-lang-icon.svg)](https://www.rust-lang.org/learn)
-&nbsp;
-[![Kubernetes](./resources/kubernetes-icon.svg )](https://kubernetes.io)
-&nbsp;
+## What I'm Learning 🌱
+I'm constantly learning and exploring new technologies to expand my skills in:
+- Advanced Rust and Kubernetes concepts
+- Machine Learning Operations (MLOps)
+- Generative AI
 
-### Where do I learn stuff? :books:
-
-[![O'Reilly](./resources/oreilly-ar21.svg)](https://www.oreilly.com)
-&nbsp;
-[![Rust](./resources/rust-lang-icon.svg)](https://doc.rust-lang.org/beta/)
-&nbsp;
-[![Docker](./resources/docker-icon.svg)](https://docs.docker.com)
-&nbsp;
-
-## Portfolio
-For contributions to other organizations and projects, check out my full portfolio, [here](https://libearden.github.io).
+## Reach out 😄
+💬 Ask me about AI, conservation tech, and how to leverage code for social good!
