@@ -1,20 +1,22 @@
 [![Header](/resources/libearden-header.png)](https://libearden.github.io/)
 
-## Who I am 👀
-👋 Hi, I'm Li Bearden, an engineer passionate about applying AI to conservation efforts. I'm dedicated to using technology to connect underserved communities with the outdoors and create a more inclusive and sustainable world.
+## Who I am
 
-## What I Do ⛰️
-🔭 I'm currently working on innovative projects at Deepgram, focusing on automating audio dataset processing and developing AI solutions that enhance accessibility to nature.
+Elliot "Li" Bearden. Independent AI consultant, based in Portland, working globally.
 
-## My stack ⚙️
-- **Languages:** Python, SQL, Rust
-- **Tools & Technoloies:** Docker, Kubernetes, AWS, GCP, Azure
+Before going independent, I was an Applied AI Engineer at Deepgram, where I built data pipelines, designed model evaluation frameworks, and developed training programs for a $1.3B voice AI platform. I got there by working my way up from customer support — not the typical path, but it gave me a practical understanding of how AI systems actually get used (and where they break).
 
-## What I'm Learning 🌱
-I'm constantly learning and exploring new technologies to expand my skills in:
-- Advanced Rust and Kubernetes concepts
-- Machine Learning Operations (MLOps)
-- Generative AI
+## What I do now
 
-## Reach out 😄
-💬 Ask me about AI, conservation tech, and how to leverage code for social good!
+I help teams close the gap between a working demo and a system people actually trust. That means voice AI pipelines, LLM evaluation, ML infrastructure, and the unglamorous work of making AI reliable in production.
+
+Current focus: building agent-forward systems and consulting on responsible AI integration — the kind that's embedded in the architecture, not bolted on as an afterthought.
+
+## Stack
+
+Python, Docker, MLflow, Prefect. Voice AI, speech pipelines, fine-tuning, data pipeline architecture. I list what I ship with, not what I've touched once in a tutorial.
+
+## Reach me
+
+- **Email:** li.bearden@proton.me
+- **Site:** [libearden.github.io](https://libearden.github.io/)
