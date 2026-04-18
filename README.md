@@ -1,4 +1,4 @@
-[![Header](/resources/libearden-header.png)](https://libearden.github.io/)
+[![Header](/resources/libearden-header.png)](https://libearden.dev/)
 
 ## Who I am
 
@@ -18,5 +18,4 @@ Python, Docker, MLflow, Prefect. Voice AI, speech pipelines, fine-tuning, data p
 
 ## Reach me
 
-- **Email:** li.bearden@proton.me
-- **Site:** [libearden.github.io](https://libearden.github.io/)
+- **Site:** [libearden.dev](https://libearden.dev/)
