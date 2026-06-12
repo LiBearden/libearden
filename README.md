@@ -1,22 +1,17 @@
-[![Header](/resources/libearden-header.png)](https://libearden.github.io/)
+[![Header](/resources/libearden-header.png)](https://libearden.dev/)
 
 ## Who I am
 
-Elliot "Li" Bearden. Independent AI consultant, based in Portland, working globally.
+Elliot "Li" Bearden (he/him), an AI safety research engineer. I'm an MSCS candidate at Grand Canyon University, where my capstone is on run-level reproducibility of LLM sycophancy benchmarks. Before this I spent five years as an Applied AI Engineer at Deepgram, building evaluation infrastructure, data pipelines, and 150+ enterprise ML deployments.
 
-Before going independent, I was an Applied AI Engineer at Deepgram, where I built data pipelines, designed model evaluation frameworks, and developed training programs for a $1.3B voice AI platform. I got there by working my way up from customer support — not the typical path, but it gave me a practical understanding of how AI systems actually get used (and where they break).
+## What I'm working on
 
-## What I do now
-
-I help teams close the gap between a working demo and a system people actually trust. That means voice AI pipelines, LLM evaluation, ML infrastructure, and the unglamorous work of making AI reliable in production.
-
-Current focus: building agent-forward systems and consulting on responsible AI integration — the kind that's embedded in the architecture, not bolted on as an afterthought.
+A replication audit of published LLM sycophancy benchmarks — specifically, whether single-run confidence intervals understate true measurement uncertainty. The PARROT phase is complete and published: K=5 across 5 models and 1,302 items, run through a deterministic offline replay harness. The SycEval phase is in progress. Capstone defense is July 2026; arXiv preprint targeting August 2026.
 
 ## Stack
 
-Python, Docker, MLflow, Prefect. Voice AI, speech pipelines, fine-tuning, data pipeline architecture. I list what I ship with, not what I've touched once in a tutorial.
+Python, PyTorch, FastAPI, vLLM, Docker, Kubernetes, W&B. LLM evaluation, sycophancy benchmarking, statistical reproducibility, ML infrastructure.
 
 ## Reach me
 
-- **Email:** li.bearden@proton.me
-- **Site:** [libearden.github.io](https://libearden.github.io/)
+Site: [libearden.dev](https://libearden.dev/)
