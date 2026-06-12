@@ -1,5 +1,3 @@
-[![Header](/resources/libearden-header.png)](https://libearden.dev/)
-
 ## Who I am
 
 Elliot "Li" Bearden (he/him), an AI safety research engineer. I'm an MSCS candidate at Grand Canyon University, where my capstone is on run-level reproducibility of LLM sycophancy benchmarks. Before this I spent five years as an Applied AI Engineer at Deepgram, building evaluation infrastructure, data pipelines, and 150+ enterprise ML deployments.
